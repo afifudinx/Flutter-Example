@@ -16,7 +16,10 @@ flutter run
 ## Screenshots
 
 <p style="float: left;">
-  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-todolist/blob/main/screenshots/1.png" width="30%"/>
-  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-todolist/blob/main/screenshots/2.png" width="30%"/>
-  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-todolist/blob/main/screenshots/3.png" width="30%"/>
+  <img src="
+screenshots/1.png" width="30%"/>
+  <img src="
+screenshots/2.png" width="30%"/>
+  <img src="
+screenshots/3.png" width="30%"/>
 </p>
