@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-watch-app
+git clone https://github.com/afifudinx/flutter-watch-app
 cd flutter-watch-app
 flutter pub get
 flutter run

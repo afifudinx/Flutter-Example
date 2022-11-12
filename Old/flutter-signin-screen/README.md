@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-signin-screen
+git clone https://github.com/afifudinx/flutter-signin-screen
 cd flutter-signin-screen
 flutter pub get
 flutter run

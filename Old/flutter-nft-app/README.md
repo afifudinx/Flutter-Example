@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-nft-app
+git clone https://github.com/afifudinx/flutter-nft-app
 cd flutter-nft-app
 flutter pub get
 flutter run

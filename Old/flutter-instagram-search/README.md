@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-instagram-search
+git clone https://github.com/afifudinx/flutter-instagram-search
 cd flutter-instagram-search
 flutter pub get
 flutter run

@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-imdb
+git clone https://github.com/afifudinx/flutter-imdb
 cd flutter-imdb
 flutter pub get
 flutter run

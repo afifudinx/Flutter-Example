@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-onboarding-subscription
+git clone https://github.com/afifudinx/flutter-onboarding-subscription
 cd flutter-onboarding-subscription
 flutter pub get
 flutter run

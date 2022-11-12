@@ -11,7 +11,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-picture-like
+git clone https://github.com/afifudinx/flutter-picture-like
 cd flutter-picture-like
 flutter pub get
 flutter run

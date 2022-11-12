@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-login-page
+git clone https://github.com/afifudinx/flutter-login-page
 cd flutter-login-page
 flutter pub get
 flutter run

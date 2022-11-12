@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-travel-app
+git clone https://github.com/afifudinx/flutter-travel-app
 cd flutter-travel-app
 flutter pub get
 flutter run

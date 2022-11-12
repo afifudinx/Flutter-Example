@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-apartment
+git clone https://github.com/afifudinx/flutter-apartment
 cd flutter-apartment
 flutter pub get
 flutter run

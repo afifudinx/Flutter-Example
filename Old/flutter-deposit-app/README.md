@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-deposit-app
+git clone https://github.com/afifudinx/flutter-deposit-app
 cd flutter-deposit-app
 flutter pub get
 flutter run

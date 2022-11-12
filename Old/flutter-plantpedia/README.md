@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-wallpaper-app
+git clone https://github.com/afifudinx/flutter-wallpaper-app
 cd flutter-wallpaper-app
 flutter pub get
 flutter run

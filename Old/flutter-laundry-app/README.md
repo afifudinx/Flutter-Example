@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-laundry-app
+git clone https://github.com/afifudinx/flutter-laundry-app
 cd flutter-laundry-app
 flutter pub get
 flutter run

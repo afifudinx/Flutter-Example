@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-keyboard-store
+git clone https://github.com/afifudinx/flutter-keyboard-store
 cd flutter-keyboard-store
 flutter pub get
 flutter run

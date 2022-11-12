@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-job-app
+git clone https://github.com/afifudinx/flutter-job-app
 cd flutter-job-app
 flutter pub get
 flutter run

@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-food-app
+git clone https://github.com/afifudinx/flutter-food-app
 cd flutter-food-app
 flutter pub get
 flutter run

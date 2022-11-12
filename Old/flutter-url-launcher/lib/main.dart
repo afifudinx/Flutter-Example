@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
 import "package:flutter_feather_icons/flutter_feather_icons.dart";
 
-const String _url = 'https://github.com/afifudinn';
+const String _url = 'https://github.com/afifudinx';
 
 void main() =>
     runApp(const MaterialApp(debugShowCheckedModeBanner: false, home: MyApp()));

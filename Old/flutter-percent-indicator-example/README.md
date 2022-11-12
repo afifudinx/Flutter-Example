@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-percent-indicator-example
+git clone https://github.com/afifudinx/flutter-percent-indicator-example
 cd flutter-percent-indicator-example
 flutter pub get
 flutter run

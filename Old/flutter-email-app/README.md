@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-email-app
+git clone https://github.com/afifudinx/flutter-email-app
 cd flutter-email-app
 flutter pub get
 flutter run

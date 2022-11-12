@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-image-picker-example
+git clone https://github.com/afifudinx/flutter-image-picker-example
 cd flutter-image-picker-example
 flutter pub get
 flutter run

@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-rating-bar-example
+git clone https://github.com/afifudinx/flutter-rating-bar-example
 cd flutter-rating-bar-example
 flutter pub get
 flutter run

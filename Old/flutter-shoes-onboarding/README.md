@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-shoes-onboarding
+git clone https://github.com/afifudinx/flutter-shoes-onboarding
 cd flutter-shoes-onboarding
 flutter pub get
 flutter run

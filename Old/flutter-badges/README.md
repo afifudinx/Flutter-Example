@@ -11,7 +11,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-badges
+git clone https://github.com/afifudinx/flutter-badges
 cd flutter-badges
 flutter pub get
 flutter run

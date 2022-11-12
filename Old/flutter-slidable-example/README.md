@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-slidable-example
+git clone https://github.com/afifudinx/flutter-slidable-example
 cd flutter-slidable-example
 flutter pub get
 flutter run

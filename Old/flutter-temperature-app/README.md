@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-temperature-app
+git clone https://github.com/afifudinx/flutter-temperature-app
 cd flutter-full-temperature-app
 flutter pub get
 flutter run

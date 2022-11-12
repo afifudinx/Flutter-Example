@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-todolist
+git clone https://github.com/afifudinx/flutter-todolist
 cd flutter-todolist
 flutter pub get
 flutter run

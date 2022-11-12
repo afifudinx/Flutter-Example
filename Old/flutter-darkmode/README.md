@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-darkmode
+git clone https://github.com/afifudinx/flutter-darkmode
 cd flutter-darkmode
 flutter pub get
 flutter run

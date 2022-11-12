@@ -11,7 +11,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-bottom-nav
+git clone https://github.com/afifudinx/flutter-bottom-nav
 cd flutter-bottom-nav
 flutter pub get
 flutter run

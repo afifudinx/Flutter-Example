@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-empty-state
+git clone https://github.com/afifudinx/flutter-empty-state
 cd flutter-empty-state
 flutter pub get
 flutter run

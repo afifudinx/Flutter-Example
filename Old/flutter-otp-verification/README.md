@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-otp-verification
+git clone https://github.com/afifudinx/flutter-otp-verification
 cd flutter-otp-verification
 flutter pub get
 flutter run

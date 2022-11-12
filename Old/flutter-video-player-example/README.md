@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-video-player-example
+git clone https://github.com/afifudinx/flutter-video-player-example
 cd flutter-video-player-example
 flutter pub get
 flutter run

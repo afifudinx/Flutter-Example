@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-pull-to-refresh-example
+git clone https://github.com/afifudinx/flutter-pull-to-refresh-example
 cd flutter-pull-to-refresh-example
 flutter pub get
 flutter run

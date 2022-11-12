@@ -11,7 +11,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-url-launcher
+git clone https://github.com/afifudinx/flutter-url-launcher
 cd flutter-url-launcher
 flutter pub get
 flutter run

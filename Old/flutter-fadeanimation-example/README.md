@@ -6,7 +6,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-fadeanimation-example
+git clone https://github.com/afifudinx/flutter-fadeanimation-example
 cd flutter-fadeanimation-example
 flutter pub get
 flutter run

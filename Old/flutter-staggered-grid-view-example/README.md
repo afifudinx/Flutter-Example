@@ -7,7 +7,7 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-staggered-grid-view-example
+git clone https://github.com/afifudinx/flutter-staggered-grid-view-example
 cd flutter-staggered-grid-view-example
 flutter pub get
 flutter run
