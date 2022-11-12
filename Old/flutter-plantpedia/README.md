@@ -14,7 +14,7 @@ flutter run
 
 ## Screenshots
 <p style="float: left;">
-  <img src="https://github.com/afifudinn/flutter-plantpedia/blob/main/screenshots/1.png" width="33%"/>
-  <img src="https://github.com/afifudinn/flutter-plantpedia/blob/main/screenshots/2.png" width="33%"/>
-  <img src="https://github.com/afifudinn/flutter-plantpedia/blob/main/screenshots/3.png" width="33%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-plantpedia/blob/main/screenshots/1.png" width="33%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-plantpedia/blob/main/screenshots/2.png" width="33%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-plantpedia/blob/main/screenshots/3.png" width="33%"/>
 </p>

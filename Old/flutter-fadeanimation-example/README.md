@@ -14,5 +14,5 @@ flutter run
 
 ## Screenshots
 <p style="float: left;">
-  <img src="https://github.com/afifudinn/flutter-fadeanimation-example/blob/main/screenshots/1.png" width="30%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-fadeanimation-example/blob/main/screenshots/1.png" width="30%"/>
 </p>

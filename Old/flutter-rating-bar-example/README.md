@@ -16,5 +16,5 @@ flutter run
 ## Screenshots
 
 <p style="float: left;">
-  <img src="https://github.com/afifudinn/flutter-rating-bar-example/blob/main/screenshots/1.png"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-rating-bar-example/blob/main/screenshots/1.png"/>
 </p>

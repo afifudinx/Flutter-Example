@@ -16,6 +16,6 @@ flutter run
 ## Screenshots
 
 <p style="float: left;">
-  <img src="https://github.com/afifudinn/flutter-watch-app/blob/main/screenshots/1.png" width="30%"/>
-  <img src="https://github.com/afifudinn/flutter-watch-app/blob/main/screenshots/2.png" width="30%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-watch-app/blob/main/screenshots/1.png" width="30%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-watch-app/blob/main/screenshots/2.png" width="30%"/>
 </p>
