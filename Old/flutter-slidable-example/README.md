@@ -16,6 +16,6 @@ flutter run
 ## Screenshots
 
 <p style="float: left;">
-  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-slidable-example/blob/main/screenshots/1.png" width="30%"/>
-  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-slidable-example/blob/main/screenshots/2.png" width="30%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-slidable-example/blob/main/screenshots/1.png" width="30%"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-slidable-example/blob/main/screenshots/2.png" width="30%"/>
 </p>

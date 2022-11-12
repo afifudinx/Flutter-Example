@@ -16,6 +16,6 @@ flutter run
 ## Screenshots
 
 <p style="float: left;">
-  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-food-app/blob/main/screenshots/1.png"/>
-  <img src="https://github.com/afifudinx/Flutter-Example/Old/flutter-food-app/blob/main/screenshots/2.png"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-food-app/blob/main/screenshots/1.png"/>
+  <img src="https://github.com/afifudinx/Flutter-Example/tree/main/Old/flutter-food-app/blob/main/screenshots/2.png"/>
 </p>
